@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(184, 236, 219);
+}
+.title{
+    font-weight: 900;
+    font-size: 40px;
+    font-family: "Arial";
+    border: gold;
+}
+.name{
+    font-family: "Arial";
+}
+i{
+    border-bottom: 5px solid gold;
+    border-radius: 40px;
+}
+.wrap{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+}
+.heading{
+    font-family: "Arial";
+    color: red;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    border: 3px solid rgb(68, 43, 43);
+    width: 300px;
+    border-radius: 10px;
+}
+.wrap-divs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    border-radius: 50%;
+    border: 5px solid red;
+}
